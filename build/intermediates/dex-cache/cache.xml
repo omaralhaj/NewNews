@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alhajery/Desktop/NewNews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alhajery/Desktop/NewNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c73f5f847d2906e3a4502877e07d7e8a4dbdd53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alhajery/Desktop/NewNews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa947ca543cacea09bbd96e52ba3dd4bef6ade8d">
+        <dex dex="/Users/alhajery/Desktop/NewNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31ede40b9f834c576a01ee0cd578965145bf2910/classes.dex" />
+    </item>
+
+</items>
